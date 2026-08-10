@@ -47,7 +47,7 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation · Sh
 
 ### 🔧 其他作品
 
-[TokenTracker](https://github.com/x7peeps/TokenTracker) · [mindmap-ppt-custom](https://github.com/x7peeps/mindmap-ppt-custom) · [dark-directory-hugo-theme](https://github.com/x7peeps/dark-directory-hugo-theme) · [dingtalk-aitable-sidebar-plugins](https://github.com/x7peeps/dingtalk-aitable-sidebar-plugins) · [x7peeps.github.io](https://github.com/x7peeps/x7peeps.github.io)
+[mindmap-ppt-custom](https://github.com/x7peeps/mindmap-ppt-custom) · [dark-directory-hugo-theme](https://github.com/x7peeps/dark-directory-hugo-theme) · [dingtalk-aitable-sidebar-plugins](https://github.com/x7peeps/dingtalk-aitable-sidebar-plugins) · [x7peeps.github.io](https://github.com/x7peeps/x7peeps.github.io)
 
 ---
 
