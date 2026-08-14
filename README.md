@@ -1,7 +1,5 @@
 ## 👨‍💻 About Me
 
-> **Push the security process.**
-
 Security Engineer · Offensive & Defensive · AI × Security × Automation
 
 ![GitHub followers](https://img.shields.io/github/followers/x7peeps?style=social)
