@@ -19,14 +19,6 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation · Sh
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=x7peeps&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x7peeps&layout=compact&theme=radical)
-
----
-
 ## 🌐 Links
 
 [![Blog](https://img.shields.io/badge/Blog-x7peeps.com-blue)](https://x7peeps.com)
