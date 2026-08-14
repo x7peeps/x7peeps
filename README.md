@@ -2,14 +2,14 @@
 
 Security Engineer · Offensive & Defensive · AI × Security × Automation
 
-![GitHub followers](https://img.shields.io/github/followers/x7peeps?style=social)
-![GitHub stars](https://img.shields.io/github/stars/x7peeps?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=x7peeps&color=blueviolet)
-
 - 🛡️ Security service expert, offensive & defensive: penetration testing, red teaming, threat intelligence, malware analysis, ATT&CK implementation
 - 🤖 Blending **AI Agents × Security × Automation**: local LLM/VLM inference, agent orchestration, data pipelines
 - 🧰 Daily stack: Python / Go / Shell / JS·TS / Docker / macOS·Windows / Cloud Native
 - 🏠 Blog: [x7peeps.com](https://x7peeps.com) · 📍 Shanghai, CN
+
+![GitHub followers](https://img.shields.io/github/followers/x7peeps?style=social)
+![GitHub stars](https://img.shields.io/github/stars/x7peeps?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=x7peeps&color=blueviolet)
 
 ---
 
