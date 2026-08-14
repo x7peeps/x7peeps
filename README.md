@@ -1,8 +1,8 @@
-# X7 🛡️ `x7peeps`
+# X7 🛡️
 
-> **The Molecular Security Lab from CN — Push the security process.**
+> **Push the security process.**
 
-Security Engineer · Offensive & Defensive · AI × Security × Automation · Shanghai, CN
+Security Engineer · Offensive & Defensive · AI × Security × Automation
 
 ![GitHub followers](https://img.shields.io/github/followers/x7peeps?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/x7peeps?style=social)
