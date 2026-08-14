@@ -16,3 +16,11 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation · Sh
 - 🤖 正在把 **AI Agent × 安全 × 自动化** 揉在一起：本地 LLM/VLM 推理、Agent 编排、数据管道
 - 🧰 日常栈：Python / Go / Shell / JS·TS / Docker / macOS·Windows / 云原生
 - 🏠 Blog: [x7peeps.com](https://x7peeps.com) · 📍 Shanghai, CN
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://stats.x7peeps.com/api?username=x7peeps&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![Top Langs](https://stats.x7peeps.com/api/top-langs/?username=x7peeps&layout=compact&theme=radical)
