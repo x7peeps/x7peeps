@@ -10,11 +10,11 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation · Sh
 
 ---
 
-## 👨‍💻 关于我 / About
+## 👨‍💻 About Me
 
-- 🛡️ 安全服务专家，攻防一体：渗透测试、红队、威胁情报、恶意样本分析、ATT&CK 落地
-- 🤖 正在把 **AI Agent × 安全 × 自动化** 揉在一起：本地 LLM/VLM 推理、Agent 编排、数据管道
-- 🧰 日常栈：Python / Go / Shell / JS·TS / Docker / macOS·Windows / 云原生
+- 🛡️ Security service expert, offensive & defensive: penetration testing, red teaming, threat intelligence, malware analysis, ATT&CK implementation
+- 🤖 Blending **AI Agents × Security × Automation**: local LLM/VLM inference, agent orchestration, data pipelines
+- 🧰 Daily stack: Python / Go / Shell / JS·TS / Docker / macOS·Windows / Cloud Native
 - 🏠 Blog: [x7peeps.com](https://x7peeps.com) · 📍 Shanghai, CN
 
 ---
