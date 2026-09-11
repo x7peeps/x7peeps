@@ -38,3 +38,19 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation
     </picture>
   </a>
 </div>
+
+<!-- TROPHY-BOARD:BEGIN -->
+## 🎯 Battle Record
+
+### 🏆 Kaggle
+
+| Competition | Host | Result | Medal |
+|---|---|---|---|
+| [AI Agent Security - Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | OpenAI x Google x IEEE | ⏳ In progress (deadline 2026-12 (头部倒计时'3 months to go', 描述内timeline为第一轮残留)) |  |
+
+### ⚔️ CTF
+
+- Battle-tested on the wire — event results coming in.
+
+<sub>Last synced 2026-09-11</sub>
+<!-- TROPHY-BOARD:END -->
