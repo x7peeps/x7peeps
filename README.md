@@ -44,9 +44,7 @@ Security Engineer · Offensive & Defensive · AI × Security × Automation
 
 ### 🏆 Kaggle
 
-| Competition | Host | Result | Medal |
-|---|---|---|---|
-| [AI Agent Security - Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | OpenAI x Google x IEEE | ⏳ In progress (deadline Dec 2026 (est.)) |  |
+- Competing — first results landing soon.
 
 ### ⚔️ CTF
 
